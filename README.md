@@ -46,9 +46,9 @@ The workbook contains Sentiment Summary, Figure 4 Data, Review-level Sentiment, 
 ## Files
 
 - `sentiment_gui.py`: recommended app, including chart and review filters.
-- `examples/sample_reviews.txt`: synthetic sample input.
+- `input_data.txt`: sample reviews for trying the application.
 
-Input datasets, generated Excel reports and environment files are excluded from version control.
+A sample input file is included. Generated Excel reports and environment files are excluded from version control.
 
 ## Interpretation
 
@@ -81,7 +81,7 @@ Suggested citation:
 
 > Verma, N. K. (2026). *Review Sentiment Analyser* [Computer software]. https://www.niteshkverma.com/index
 
-Use the metadata in [CITATION.cff](CITATION.cff) for citation tools. On GitHub, place this file in the repository root on the default branch to enable **Cite this repository**. Add the repository URL or an archived-release DOI to the citation metadata once available.
+Use the metadata in [CITATION.cff](CITATION.cff) for citation tools. On GitHub, place this file in the repository root on the default branch to enable **Cite this repository**. The citation metadata includes the [GitHub repository](https://github.com/vermanite/review-sentiment-analyser). Add an archived-release DOI if one becomes available.
 
 Suggested acknowledgment:
 
