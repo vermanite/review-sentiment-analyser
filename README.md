@@ -9,6 +9,10 @@ A Python desktop application built with Tkinter for analysing English text revie
 - Keyword, bigram and trigram analysis with review boundaries preserved.
 - Background analysis with progress updates.
 - Excel export containing six report sheets.
+- 
+## Software preview
+
+![Review Sentiment Analyser desktop interface](download.png)
 
 ## Setup
 
