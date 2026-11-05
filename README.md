@@ -46,7 +46,6 @@ The workbook contains Sentiment Summary, Figure 4 Data, Review-level Sentiment, 
 ## Files
 
 - `sentiment_gui.py`: recommended app, including chart and review filters.
-- `sentiment.py`: earlier GUI version.
 - `examples/sample_reviews.txt`: synthetic sample input.
 
 Input datasets, generated Excel reports and environment files are excluded from version control.
@@ -80,7 +79,7 @@ If you use this software in academic or research work, you must credit **Dr. Nit
 
 Suggested citation:
 
-> Verma, N. K. (n.d.). *Review Sentiment Analyser* [Computer software]. https://www.niteshkverma.com/index
+> Verma, N. K. (2026). *Review Sentiment Analyser* [Computer software]. https://www.niteshkverma.com/index
 
 Use the metadata in [CITATION.cff](CITATION.cff) for citation tools. On GitHub, place this file in the repository root on the default branch to enable **Cite this repository**. Add the repository URL or an archived-release DOI to the citation metadata once available.
 
