@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+type: software
+title: "Review Sentiment Analyser"
+message: >-
+  If you use this software in academic or research work, you must credit
+  Dr. Nitesh Kumar Verma and cite this software in the resulting publication,
+  thesis, report, presentation, or other scholarly output. See LICENSE for
+  the noncommercial use and redistribution terms.
+authors:
+  - family-names: "Verma"
+    given-names: "Nitesh Kumar"
+    website: "https://www.niteshkverma.com"
+url: "https://www.niteshkverma.com/index"
+abstract: >-
+  A Python and Tkinter desktop application for English review sentiment
+  analysis using VADER and TextBlob, with charts, review filters,
+  keyword and n-gram analysis, and Excel export.
+keywords:
+  - sentiment analysis
+  - research software
+  - Tkinter
+  - VADER
+  - TextBlob

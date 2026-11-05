@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.xlsx
+input_data.txt
+nltk_data/
+build/
+dist/
+*.spec

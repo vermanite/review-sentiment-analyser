@@ -1,0 +1,57 @@
+Review Sentiment Analyser — Noncommercial Use and Redistribution License
+
+Copyright (c) 2026 Dr. Nitesh Kumar Verma. All rights reserved except as
+expressly granted below.
+
+1. Scope
+This license covers the original Review Sentiment Analyser Python software
+and its accompanying project documentation provided by the copyright holder.
+Third-party libraries, resources, and dependencies remain subject to their
+own licenses. This license does not claim ownership of users' input data or
+analysis results.
+
+2. Permitted use and redistribution
+Permission is granted, without charge, to use the Software solely for
+noncommercial purposes and to copy and redistribute unmodified copies of the
+Software without charge, subject to all conditions in this license.
+Noncommercial means not primarily intended for or directed toward commercial
+advantage or monetary compensation. Academic affiliation alone does not
+make an otherwise commercial activity noncommercial.
+
+3. No commercial use
+Commercial use, sale, paid redistribution, incorporation into paid products
+or services, and use to provide paid analysis or consulting services are not
+permitted without separate written permission from Dr. Nitesh Kumar Verma.
+
+4. Attribution and preservation of notices
+Every redistributed copy must retain this license, CITATION.cff, the copyright
+notice, and the existing author and website credits. You must not claim
+that you created the original Software or imply the author's endorsement.
+
+5. Required academic and research credit
+If the Software is used in academic or research work, resulting publications,
+theses, reports, presentations, and other scholarly outputs must acknowledge
+Dr. Nitesh Kumar Verma as the Software's author and include a citation to
+Review Sentiment Analyser using the metadata in CITATION.cff. Where an
+output has a bibliography or references section, include the citation there;
+otherwise include it in an acknowledgments or credits section.
+This requirement is a condition of the permission granted by this license.
+
+6. Other rights reserved
+No permission to modify the Software or distribute modified versions is
+granted by this license. Any use outside the permissions above requires
+separate written permission from the copyright holder. Requests may be made
+through https://www.niteshkverma.com. Nothing in this license limits rights
+that cannot lawfully be restricted, including applicable statutory exceptions.
+
+7. Termination
+The permissions granted by this license terminate automatically if you
+violate its conditions. Further use or redistribution then requires separate
+permission from the copyright holder, except as otherwise permitted by law.
+
+8. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NONINFRINGEMENT. TO THE EXTENT PERMITTED BY LAW, THE COPYRIGHT
+HOLDER IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM
+OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
